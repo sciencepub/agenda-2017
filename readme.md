@@ -20,7 +20,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 |----------|--------|--------------------------|-------------------|--------------------------------------------|-----------|
 | Abril  | 29/04  | OBAFIS: Despertando o interesse de futuros astrônomos   | Ramon de Sá     | Quiosque Brahma Chopp - Shopping da Ilha |  Olá, amantes do conhecimento ! O SciencePub está retomando as atividades e o convidado do mês de abril é Ramon de Sá ! Nesta edição ele apresentará os trabalhos desenvolvidos pelo OBAFIS ( Observatório Astronômico de Física ) na Uema envolvendo ensino, pesquisa e divulgação científica. Ramon de Sá é graduando em Física pela Universidade Estadual do Maranhão e atualmente integra como bolsista o quadro de colaboradores do OBAFIS, onde desenvolve trabalhos no ensino e divulgação de Física e Astronomia.  |
 | Maio  | 20/05  | Introdução ao espaço-modelismo através das principais estruturas de um foguete  | Equipe Carcará  | Quiosque Brahma Chopp - Shopping da Ilha |  Olá, amantes do conhecimento ! A edição do SciencePub deste mês traz a equipe Carcará Rocket Design, da Universidade Estadual do Maranhão para um bate-papo sobre espaçomodelismo. A Equipe Carcará participou recentemente do IV Festival Nacional de Minifoguetes, que aconteceu em Curitiba (PR), entre 29 de abril e 3 de maio, conquistando quatro premiações em seis categorias nas quais competiu.  |
-| Setembro | 23/09 | A definir | A Definir | A definir | A definir |
+| Setembro | 23/09 | A definir | Edvan Moreira | A definir | A definir |
 | Outubro | 21/10 | A definir | Jherfson Castro | A definir | A definir |
 | Novembro | 18/11 | A definir | A Definir | A definir | A definir |
 | Dezembro | 09/12 | A definir | Keyman Jhosef | A definir | A definir |
