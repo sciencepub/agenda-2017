@@ -56,7 +56,7 @@ A cada mês, uma pessoa envolvida com atividades relacionadas à ciência é con
 
     Data: 18/12
     Local: Recoleta Grill - Shopping da Ilha 
-    Tema: Modelagem computacional e baterias 
+    Tema: Evolução Estelar 
     Palestrante: Kayman Jhosef
 
 *Olá amantes da ciência !! Neste mês de dezembro ocorrerá a última edição do SciencePub em 2017 e para fechar o nosso ano com chave de ouro, o nosso convidado é Kayman Jhosef que irá falar sobre um dos campos mais fascinantes das astronomia: Evolução estelar e o desenvolvimento dessa área de pesquisa. Kayman Jhosef é bacharel em Física pela Universidade Federal do Maranhão e atualmente é mestrando em Física pela Universidade Estadual de Campinas (Unicamp) onde participa do DRCC (Departamento de Raios Cósmicos e Cronologia). Envolveu-se com divulgação científica com temas voltados para a astronomia em geral durante 3 anos no PET-Física (Programa de Educação Tutorial). Tem interesse nas áreas de astrofísica, cosmologia e além de outros temas voltados a ciência em geral. Venha participar conosco e entender um pouco mais sobre o funcionamento de nosso universo !!*
